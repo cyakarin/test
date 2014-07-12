@@ -2,8 +2,9 @@ test
 ====
 * Hoge
 
-    `$ hogehoge`
- 
-    `$ hogehoge`
+```
+$ hogehoge
+$ hogehoge
+```
 
 test
